@@ -1,5 +1,5 @@
 # SHAP_XAI_VM
-El desarrollo original del proyecto fue realizado en una máquina virtual preconfigurada usando como imagen base Python 3.9. Referirse a [este link](https://github.com/gradient-ai/base-container/tree/main/pt112-tf29-jax0314-py39) para ver todas las dependencias incluídas en dicho entorno.
+El desarrollo original del proyecto fue realizado en una máquina virtual preconfigurada usando como imagen base Python 3.9. Referirse a [este link](https://github.com/gradient-ai/base-container/tree/main/pt112-tf29-jax0314-py39) para ver todas las dependencias incluídas en dicho entorno. Es recomendable el uso de entornos virtualizados mediante [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
 Las siguientes dependencias fueron necesarias instalarlas de forma manual:
 - stable-baselines3[extra]
 - gym
